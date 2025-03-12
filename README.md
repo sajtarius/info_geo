@@ -1,2 +1,3 @@
-The provided codes consist of [information rate] calculations through different methods. 
-***Please check the function by itself as the description is written in all the functions. 
+This folder contains all the codes of my work. All the codes are in the [info_geo] folder. 
+
+***For interested user, please go through the codes as I have included the desciptions in all the codes***
